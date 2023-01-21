@@ -5,7 +5,7 @@
   <details>
   <summary>Módulos</summary>
   UUU (Util): Herramientas que trabajan con LAN y trafico local<br>
-  AAA (Analyze): Herramientas que trabajan con ilustraciones y graficos<br>
+  AAA (Analyze): Herramientas que trabajan con análisis de Data/Datos<br>
   EEE (Exploit): Herramientas que trabajan con vulnerabilidades y su explotación
   </details>
   <details>
