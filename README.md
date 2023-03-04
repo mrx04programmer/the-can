@@ -6,7 +6,7 @@
   <summary>Módulos</summary>
   UUU (Util): Herramientas que trabajan con LAN y trafico local<br>
   AAA (Analyze): Herramientas que trabajan con análisis de Data/Datos<br>
-  EEE (Exploit): Herramientas que trabajan con vulnerabilidades y su explotación
+  EEE (Exploit): Herramientas que trabajan con vulnerabilidades y su explotación<br>
   Lib (Library): Librerias y Módulos externos que son usadas si no se logro instalar las dependencias 
   </details>
   <details>
